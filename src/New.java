@@ -13,5 +13,6 @@ public class New {
         System.out.println("asd");
         System.out.println("asd");
         System.out.println("asd");
+        System.out.println("asd");
     }
 }
